@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application">
+    <option name="INPUT_FILE" value="$PROJECT_DIR$/input.txt" />
+    <option name="REDIRECT_INPUT" value="true" />
+    <option name="MAIN_CLASS_NAME" value="com.sukanets.shop.Main" />
+    <module name="sportshop" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
